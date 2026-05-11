@@ -1,1 +1,1 @@
-# Thunderhack resoures
+# Resources
